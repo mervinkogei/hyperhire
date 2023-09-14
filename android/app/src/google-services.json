@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595121885720",
+    "project_id": "hyperhire-card",
+    "storage_bucket": "hyperhire-card.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595121885720:android:ade8f4527992b5a196a96d",
+        "android_client_info": {
+          "package_name": "com.example.hyperhire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuI6YhK2Ipp6g7TgSM8vuQBDaEDcrnjpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
